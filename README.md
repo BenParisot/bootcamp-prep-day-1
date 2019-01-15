@@ -25,6 +25,12 @@ This is what you learned tonight:
 
 #### That's about it!
 
+One last thing:
+
+```html
+<p>Here's how to type in an HTML code snipped.</p>
+```
+
 Love,
 ```
 Yesterday Ben
